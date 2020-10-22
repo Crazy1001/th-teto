@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.54 12.54">
+    <defs>
+        <style>.cls-1-2{fill:#797979;}.cls-2-2{fill:none;stroke:#797979;stroke-miterlimit:10;stroke-width:1.2px;}</style>
+    </defs>
+    <g id="圖層_2" data-name="圖層 2">
+        <g id="Group_12" data-name="Group 12">
+            <path id="Path_5" data-name="Path 5" class="cls-1-2" d="M3.35,2.25H9.42l.15,1.23a8.43,8.43,0,0,0-2,2.87,9.45,9.45,0,0,0-1,3.94H4.39A7.58,7.58,0,0,1,5.48,7.1,16.12,16.12,0,0,1,8,3.73H5.3a2.34,2.34,0,0,0-.87.11.89.89,0,0,0-.38.41,4.53,4.53,0,0,0-.28.59L3,4.7Z"/>
+        </g>
+        <path id="Rectangle_1616" data-name="Rectangle 1616" class="cls-2-2" d="M1.92.6h8.7a1.32,1.32,0,0,1,1.32,1.31v8.71a1.32,1.32,0,0,1-1.32,1.32H1.92A1.32,1.32,0,0,1,.6,10.62V1.91A1.32,1.32,0,0,1,1.92.6Z"/>
+    </g>
+</svg>

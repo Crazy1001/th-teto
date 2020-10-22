@@ -1,0 +1,12 @@
+<svg class="game-icon" viewBox="0 0 19.84 21.84">
+    <defs>
+        <style>.cls-2-1,.cls-3-1{fill:none;}.cls-2-1{stroke:#fff;stroke-miterlimit:10;stroke-width:2px;}.cls-2-2{fill:#fff;fill-rule:evenodd;}</style>
+    </defs>
+    <g id="圖層_2" data-name="圖層 2">
+        <g id="Group_545" data-name="Group 545">
+            <path id="Rectangle_1624" data-name="Rectangle 1624" class="cls-2-1" d="M2.66,1H17.18a1.25,1.25,0,0,1,1.26,1.26V19.58a1.25,1.25,0,0,1-1.26,1.26H2.66A1.26,1.26,0,0,1,1.4,19.58V2.26A1.26,1.26,0,0,1,2.66,1Z"/>
+            <path id="形狀_37" data-name="形狀 37" class="cls-2-2" d="M12.18,7.55A7.15,7.15,0,0,1,9.93,5,6.48,6.48,0,0,1,7.67,7.53c-1.28.89-3.21,1.73-3.19,4,0,4,3.76,4.85,5.29,1.74,0,1-.3,2.95-1.18,3.18-.08,0-.16.13-.08.18a5.58,5.58,0,0,0,2.78.19c.35-.08.16-.26.14-.28a4.15,4.15,0,0,1-1.32-3.21c1.51,2.9,5.23,2.13,5.26-1.78C15.38,9.29,13.44,8.5,12.18,7.55Z"/>
+        </g>
+        <path id="Path_134" data-name="Path 134" class="cls-3-1" d="M0,1.05H19.84V20.8H0Z"/>
+    </g>
+</svg>
